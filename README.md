@@ -17,3 +17,5 @@ Instruções de Uso:
 Insira uma frase como entrada.
 Obtenha as contagens de palavras de acordo com os critérios mencionados.
 Este projeto visa demonstrar a implementação desses requisitos de contagem de palavras, utilizando o padrão Observer para promover uma arquitetura modular e extensível.
+
+Para executar os testes unitários, deve-se usar o comando: 'py -m unittest test_unitarios.py' que roda os testes criados no arquivo de teste
